@@ -1,7 +1,7 @@
 # Honey-the-ChatBot. 
 Honey-the-ChatBot is a conversational agent developed using the OpenAI API, WolframAlpha, and Wikipedia. It can answer various types of questions, tell jokes, and carry on general conversations with users.
 
-Features
+# Features
 
 Honey-the-ChatBot has the following features:
 
@@ -11,7 +11,7 @@ Ability to use WolframAlpha to answer factual questions
 Ability to use Wikipedia to provide information on a given topic
 Multiple conversation modes, ranging from low-level to advanced
 
-The available modes are:
+# The available modes are:
 
 Low: Generates a generic response to the input message using the text-davinci-002 engine.
 
@@ -22,7 +22,7 @@ Study: Uses the Wolfram Alpha API to provide answers to educational or scientifi
 Information: Uses the Wikipedia API to provide information on a given topic.
 Honey can also tell Bangla jokes upon request.
 
-Getting Start
+# Getting Start
 
 To get started with Honey-the-ChatBot, you need an API key from OpenAI, which you can get by signing up at https://openai.com/. You will also need an App ID from WolframAlpha, which you can get by signing up at https://www.wolframalpha.com/.
 
@@ -48,17 +48,17 @@ Then you need to clone this resperatory and modify Homey.py file there you have 
 When you will run this successfully you will get a local link copy the link and open it in a browser.
 Congratulations you have run this successfully 👏👏
 
-Usage
+# Usage
 
 When you run the chatbot, you will be prompted to enter a message and select a conversation mode. You can then ask Honey-the-ChatBot various types of questions or carry on a general conversation.
 
 To exit the chatbot, type "exit" into the chat window.
 
-Contributing
+# Contributing
 
 If you want to contribute to Honey-the-ChatBot, you can fork the repository and create a pull request. You can also report any bugs or suggest new features by creating an issue.
 
-Acknowledgments
+# Acknowledgments
 
 The OpenAI API for providing state-of-the-art language models
 
@@ -66,7 +66,7 @@ WolframAlpha for providing access to factual information
 
 Wikipedia for providing access to general information
 
-Credits
+# Credits
 
 Honey-the-ChatBot was created by Abid Hasan Sojib. The following third-party libraries and APIs were used:
 
@@ -76,7 +76,7 @@ WolframAlpha
 
 Wikipedia-API
 
-Contact
+# Contact
 
 If you are interested in collaborating on similar projects, have suggestions for improvements, or want to share new ideas, please feel free to contact me. I am always open to new opportunities and eager to work with others who are passionate about building innovative chatbots.
 
